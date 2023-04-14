@@ -19,7 +19,7 @@ with an ergo twist and a healthy dose of minimalism, the tamago60 is a roughly-6
 stuck between two semi-split ortho halves.
 
 This design uses MX spacing (19mm) to allow flexibility with choice of keycaps. For the same reason, switches are
-be installed directly to the PCB rather than into a switchplate (DSA keycaps will crash into the plate if used with
+installed directly to the PCB rather than into a switchplate (DSA keycaps will crash into the plate if used with
 Choc V2's).
 
 ## Components
