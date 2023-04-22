@@ -64,6 +64,9 @@ Prepare the back of the board with paste and place the SMT components:
 
 If you choose not to install the two resistors, you can simply bridge the pads intended for each.
 
+Select two pads to bridge on the jumper near the joystick to choose whether the press action should be
+a left or right click (it shares a position in the matrix with one of the keyswitches below it).
+
 Use your preferred heating method to reflow, then move on to the THT components on the front of the board:
 
 - Install the MCU socket
