@@ -74,3 +74,11 @@ That's all there is to it! Install your switches and keycaps, flash the firmware
 ## Firmware
 
 Firmware is available from [our fork of QMK](https://github.com/eggsworks/qmk_firmware/tree/tamago60).
+
+## License
+
+This repository is available under the terms of the [GPL, verison 3](LICENSE).
+
+Some portions are derived from:
+
+- [keyswitches.pretty](https://github.com/daprice/keyswitches.pretty) ([CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/))
