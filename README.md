@@ -12,6 +12,11 @@ PCB prototyping for the tamago60 was kindly sponsored by [PCBWay](https://www.pc
 tamago60, consider ordering from [PCBWay](https://www.pcbway.com/) to experience their fast turnaround, high quality production,
 and excellent customer service. Thanks, PCBWay!
 
+I've also shared this design on their site to make it really
+easy to order your own board:
+
+<a href="https://www.pcbway.com/project/shareproject/tamago60_v1_2_e8880b6e.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
 ## Overview
 
 ![key layout](images/tamago60_layout.png)
