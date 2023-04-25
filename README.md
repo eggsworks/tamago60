@@ -78,6 +78,16 @@ That's all there is to it! Install your switches and keycaps, flash the firmware
 
 Firmware is available from [our fork of QMK](https://github.com/eggsworks/qmk_firmware/tree/tamago60).
 
+## Accessories
+
+Model files for a 3D-printable case are available in this repo.
+The case is split in two parts in order to fit most beds. A cavity 
+is provided in order to install a battery in the case of a wireless
+build.
+
+Install 8 M2 brass inserts in each half in order to mount the
+PCB to the case.
+
 ## License
 
 This repository is available under the terms of the [GPL, verison 3](LICENSE).
