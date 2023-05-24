@@ -431,6 +431,10 @@
     [
       "50c4e2f2-63e0-4314-96f9-1fc784fa45ab",
       "Switch Matrix"
+    ],
+    [
+      "6ac67d0d-1135-4a39-aff8-83b6231a827e",
+      "MCU, USB, Power"
     ]
   ],
   "text_variables": {}
