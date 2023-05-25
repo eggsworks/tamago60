@@ -214,11 +214,11 @@
     (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/8536aff3-8bd5-4595-b2ea-eae13ca7200f"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/16e89cba-bf64-439e-b949-2814c50e5d34"
-      (reference "#PWR0106") (unit 1) (value "VBUS") (footprint "")
+    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/6fe1348b-cf35-4c0f-be3e-2e51498b7a48"
+      (reference "#PWR0106") (unit 1) (value "+3V3") (footprint "")
     )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/e725eab2-61d4-4ecd-8b8f-035429b24eb5"
-      (reference "#PWR0107") (unit 1) (value "VBUS") (footprint "")
+    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/e34bea42-b34b-4479-a572-e4c2118be1dc"
+      (reference "#PWR0107") (unit 1) (value "+3V3") (footprint "")
     )
     (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/f0ec5eb5-bd46-4700-9124-6d3814d8477f"
       (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
@@ -491,7 +491,7 @@
       (reference "R6") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_1206_3216Metric")
     )
     (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/479c78ad-f594-447c-b964-745d4711772e"
-      (reference "SW1") (unit 1) (value "SW_Push") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
+      (reference "SW1") (unit 1) (value "RESET") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/55ad0278-9a54-4ff2-b0d2-0ef37d22dd47"
       (reference "SW101") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX_platemount")
