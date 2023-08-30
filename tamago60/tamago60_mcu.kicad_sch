@@ -1138,7 +1138,7 @@
   )
 
   (symbol (lib_id "kb2040:kb2040") (at 37.465 26.035 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+    (in_bom no) (on_board yes) (fields_autoplaced)
     (uuid 1c5ac656-5c08-4feb-9213-db76c56f00ce)
     (property "Reference" "U1" (id 0) (at 43.815 24.13 0))
     (property "Value" "kb2040" (id 1) (at 43.815 26.67 0))
