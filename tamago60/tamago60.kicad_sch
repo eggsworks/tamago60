@@ -443,178 +443,178 @@
       (reference "U1") (unit 1) (value "kb2040") (footprint "kb2040:kb2040")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/55ad0278-9a54-4ff2-b0d2-0ef37d22dd47"
-      (reference "XSW101") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW101") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/b1b564de-9a84-48aa-8e12-dd15d147a452"
-      (reference "XSW102") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW102") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2b1adb05-8267-47b8-b2dd-5d4063506022"
-      (reference "XSW103") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW103") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/58a9787c-e2c1-47ad-8759-7e5136e14d30"
-      (reference "XSW104") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW104") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6e87ae15-6a62-446e-b016-323f20594190"
-      (reference "XSW105") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW105") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2503cff0-d28a-44b0-bde7-3a5aadf7bf7e"
-      (reference "XSW106") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW106") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/269aa2a1-c647-433e-87b2-9cfbad6e51a4"
-      (reference "XSW107") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW107") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d2216ae7-6acd-4cfc-a7cd-0b1e93f4209f"
-      (reference "XSW108") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW108") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a84a7045-8121-4e14-8aff-caeb92e67dc3"
-      (reference "XSW109") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW109") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/e43ed8bc-64a8-4a84-a3f7-8fd16e8b5268"
-      (reference "XSW110") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW110") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2c9f0244-0cca-4374-b239-6c792d45d0cd"
-      (reference "XSW111") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW111") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f8caa280-d279-42f5-946c-d75d32211f4f"
-      (reference "XSW112") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW112") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c33a0ba0-38e9-4547-a799-a4a3b36fbda6"
-      (reference "XSW201") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW201") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/df700100-475d-4454-8828-ae73720b8dd6"
-      (reference "XSW202") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW202") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/7b9cdd74-d475-4566-be25-ae90323b9ab3"
-      (reference "XSW203") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW203") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f7c4e165-212d-4a36-a5bd-4f5829347d68"
-      (reference "XSW204") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW204") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fb50e7e8-93df-4a3c-a376-386693de89d8"
-      (reference "XSW205") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW205") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/14a738e7-a052-4148-933d-20d127350562"
-      (reference "XSW206") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW206") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/ea5c4949-9186-43ce-b550-8ef2cc0ad9c6"
-      (reference "XSW207") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW207") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6c52d3f6-c3f9-41b8-a379-78ce3dc61e03"
-      (reference "XSW208") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW208") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/9197fc22-4415-4df9-9ace-82eb4d963b35"
-      (reference "XSW209") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW209") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3d52657d-0905-4e25-be19-a19eee15e44b"
-      (reference "XSW210") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW210") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f50d8add-2cff-43c3-bf5d-9f7f657fe101"
-      (reference "XSW211") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW211") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d7053da7-e4d6-4fe8-bc7f-414eded258ec"
-      (reference "XSW212") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW212") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/9ee6a795-1b36-41aa-8881-37ea19d73c28"
-      (reference "XSW301") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW301") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a495a822-be1b-4365-9317-c89c8eb7da28"
-      (reference "XSW302") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW302") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/64763560-a742-4eef-8654-738eefb7d740"
-      (reference "XSW303") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW303") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/dca0186e-f935-496a-b6e5-a30d2a88fb32"
-      (reference "XSW304") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW304") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/084420d1-30bc-45eb-846d-4f1cf178b5d8"
-      (reference "XSW305") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW305") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/dcad4ade-b4a6-42f2-8cc6-0fed8a9535e7"
-      (reference "XSW306") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW306") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fe002e22-26e3-45d2-bfa4-8cda68821b80"
-      (reference "XSW307") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW307") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/5a3440b6-3d56-43c8-a5fa-d422aac1068a"
-      (reference "XSW308") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW308") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/110f97d1-964f-4125-9f50-8be2ce54351b"
-      (reference "XSW309") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW309") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/7b4eb450-3ca9-445d-9502-f42439cc480a"
-      (reference "XSW310") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW310") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a3a6a169-35d1-4411-b378-43480bd0faae"
-      (reference "XSW311") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW311") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/4e27ebef-af8b-4fa0-98d7-dd57bbb2b72a"
-      (reference "XSW312") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW312") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/bc4f019f-9540-4158-9fda-12a89643b400"
-      (reference "XSW401") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW401") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3ccbe198-3202-4418-a13a-f8bcdae854bf"
-      (reference "XSW402") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW402") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c4075483-2c9c-4225-b1dc-31ee1821ae70"
-      (reference "XSW403") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW403") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/4926f67f-d046-47fd-945a-d24899154a1d"
-      (reference "XSW404") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW404") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6d1b93e5-e7f8-4e50-9232-72df43332030"
-      (reference "XSW405") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW405") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3d027fe6-cba5-43e8-b41e-cd26d3d24992"
-      (reference "XSW406") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW406") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/30ba7303-16e2-40d5-9266-659ab4bde3fe"
-      (reference "XSW407") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW407") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/cf621a54-a0b1-4d81-bcef-0f0427f793ff"
-      (reference "XSW408") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW408") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/71f02379-fe28-4963-96a9-0ea3965d5973"
-      (reference "XSW409") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW409") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/32d217e9-6793-4d6a-a4d3-969855f5dce9"
-      (reference "XSW410") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW410") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a57a5de9-676f-4425-8c47-456a4d8c760f"
-      (reference "XSW411") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW411") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d504eb64-6b3d-4d69-b761-1cc50de1f249"
-      (reference "XSW412") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW412") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/46f8e824-836f-4bca-b9a0-65df1b537f61"
-      (reference "XSW501") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW501") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/540914ae-9481-40d5-9aa2-8a4e1f98d085"
-      (reference "XSW502") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW502") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/e00e7675-e9d1-4bc8-be89-d182e07c41a0"
-      (reference "XSW503") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW503") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/760a7f51-98fd-4706-bf5b-46b941b0bf0f"
-      (reference "XSW504") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW504") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a87a8356-75fc-41f2-8430-10f8ab7ccadc"
-      (reference "XSW505") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW505") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/73fc7384-de90-40e3-8607-1c41c6b1db6e"
-      (reference "XSW508") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW508") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2def6eb6-3356-4974-8236-f65860995e01"
-      (reference "XSW509") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW509") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fb8c6787-ca8c-42ef-a99f-5d8bdf4dd58b"
-      (reference "XSW510") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW510") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6b6c143b-02d6-4374-9adb-36b75e016694"
-      (reference "XSW511") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW511") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
     (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/92352715-9262-4bd8-9587-9b632bcdec14"
-      (reference "XSW512") (unit 1) (value "Kailh MX socket") (footprint "tamago60:Kailh_socket_MX")
+      (reference "XSW512") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
     )
   )
 )
