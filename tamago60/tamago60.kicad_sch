@@ -1,4 +1,4 @@
-(kicad_sch (version 20211123) (generator eeschema)
+(kicad_sch (version 20230121) (generator eeschema)
 
   (uuid e5a0f2c6-065d-4d38-9ddc-07098c6eb873)
 
@@ -13,30 +13,30 @@
 
   (lib_symbols
     (symbol "Mechanical:MountingHole" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-      (property "Reference" "H" (id 0) (at 0 5.08 0)
+      (property "Reference" "H" (at 0 5.08 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Value" "MountingHole" (id 1) (at 0 3.175 0)
+      (property "Value" "MountingHole" (at 0 3.175 0)
         (effects (font (size 1.27 1.27)))
       )
-      (property "Footprint" "" (id 2) (at 0 0 0)
+      (property "Footprint" "" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "Datasheet" "~" (id 3) (at 0 0 0)
+      (property "Datasheet" "~" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_keywords" "mounting hole" (id 4) (at 0 0 0)
+      (property "ki_keywords" "mounting hole" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_description" "Mounting Hole without connection" (id 5) (at 0 0 0)
+      (property "ki_description" "Mounting Hole without connection" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
-      (property "ki_fp_filters" "MountingHole*" (id 6) (at 0 0 0)
+      (property "ki_fp_filters" "MountingHole*" (at 0 0 0)
         (effects (font (size 1.27 1.27)) hide)
       )
       (symbol "MountingHole_0_1"
         (circle (center 0 0) (radius 1.27)
-          (stroke (width 1.27) (type default) (color 0 0 0 0))
+          (stroke (width 1.27) (type default))
           (fill (type none))
         )
       )
@@ -45,19 +45,19 @@
 
 
   (polyline (pts (xy 89.535 116.84) (xy 31.75 116.84))
-    (stroke (width 0) (type default) (color 0 0 0 0))
+    (stroke (width 0) (type default))
     (uuid 060c52d7-5b2d-41b0-aacc-3f5ed22a1788)
   )
   (polyline (pts (xy 89.535 69.85) (xy 89.535 116.84))
-    (stroke (width 0) (type default) (color 0 0 0 0))
+    (stroke (width 0) (type default))
     (uuid 66adf2bb-f558-4f1d-b968-58916c8558c1)
   )
   (polyline (pts (xy 31.75 69.85) (xy 31.75 116.84))
-    (stroke (width 0) (type default) (color 0 0 0 0))
+    (stroke (width 0) (type default))
     (uuid 713485e9-be8f-47e7-9c95-48e7584c3911)
   )
   (polyline (pts (xy 32.385 69.85) (xy 89.535 69.85))
-    (stroke (width 0) (type default) (color 0 0 0 0))
+    (stroke (width 0) (type default))
     (uuid e6c7e3f3-c47f-445e-b3ea-a6f1a9baf909)
   )
 
@@ -66,555 +66,113 @@
     (uuid 3b5d3230-cb8d-4d8a-b238-0d1880300a69)
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 88.9 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 23252bc7-3139-4531-a002-880fdd096cce)
-    (property "Reference" "MH2" (id 0) (at 48.26 87.6299 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (id 1) (at 48.26 90.1699 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "tamago60:circle_mounting_hole" (id 2) (at 45.72 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 45.72 88.9 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 64.135 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 3bc3fa5e-4835-4528-a02f-63abed6f0699)
-    (property "Reference" "MH5" (id 0) (at 66.675 82.5499 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (id 1) (at 66.675 85.0899 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "tamago60:circle_mounting_hole" (id 2) (at 64.135 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 64.135 83.82 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 64.135 88.9 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 92.71 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4431d4cb-95c9-421e-a920-96d8d28e31a3)
-    (property "Reference" "MH6" (id 0) (at 66.675 87.6299 0)
+    (property "Reference" "MH3" (at 48.895 91.44 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (id 1) (at 66.675 90.1699 0)
+    (property "Value" "MountingHole" (at 48.895 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "tamago60:oval_mounting_hole" (id 2) (at 64.135 88.9 0)
+    (property "Footprint" "tamago60:oval_mounting_hole" (at 45.72 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 64.135 88.9 0)
+    (property "Datasheet" "~" (at 45.72 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "tamago60"
+        (path "/e5a0f2c6-065d-4d38-9ddc-07098c6eb873"
+          (reference "MH3") (unit 1)
+        )
+      )
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 93.98 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 87.63 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 4d11e57e-7edc-478e-9bdf-b2f516a6e9f0)
-    (property "Reference" "MH3" (id 0) (at 48.26 92.7099 0)
+    (property "Reference" "MH2" (at 48.26 86.36 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (id 1) (at 48.26 95.2499 0)
+    (property "Value" "MountingHole" (at 48.26 88.9 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "tamago60:circle_mounting_hole_npth" (id 2) (at 45.72 93.98 0)
+    (property "Footprint" "tamago60:circle_mounting_hole_npth" (at 45.72 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 45.72 93.98 0)
+    (property "Datasheet" "~" (at 45.72 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
+    )
+    (instances
+      (project "tamago60"
+        (path "/e5a0f2c6-065d-4d38-9ddc-07098c6eb873"
+          (reference "MH2") (unit 1)
+        )
+      )
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 83.82 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
+  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 82.55 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7fe3ef1e-d06f-465b-9bc5-df41758dcb77)
-    (property "Reference" "MH1" (id 0) (at 48.26 82.5499 0)
+    (property "Reference" "MH1" (at 48.26 81.2799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole" (id 1) (at 48.26 85.0899 0)
+    (property "Value" "MountingHole" (at 48.26 83.8199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "tamago60:oval_mounting_hole" (id 2) (at 45.72 83.82 0)
+    (property "Footprint" "tamago60:oval_mounting_hole" (at 45.72 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (id 3) (at 45.72 83.82 0)
+    (property "Datasheet" "~" (at 45.72 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-  )
-
-  (symbol (lib_id "Mechanical:MountingHole") (at 45.72 99.06 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid abb8ff8f-e26f-457f-a719-d6f12fb9ddd6)
-    (property "Reference" "MH4" (id 0) (at 48.26 97.7899 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "MountingHole" (id 1) (at 48.26 100.3299 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "tamago60:circle_mounting_hole" (id 2) (at 45.72 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 45.72 99.06 0)
-      (effects (font (size 1.27 1.27)) hide)
+    (instances
+      (project "tamago60"
+        (path "/e5a0f2c6-065d-4d38-9ddc-07098c6eb873"
+          (reference "MH1") (unit 1)
+        )
+      )
     )
   )
 
   (sheet (at 118.745 70.485) (size 57.15 45.72) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 50c4e2f2-63e0-4314-96f9-1fc784fa45ab)
-    (property "Sheet name" "Switch Matrix" (id 0) (at 118.745 69.7734 0)
+    (property "Sheetname" "Switch Matrix" (at 118.745 69.7734 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "tamago60_matrix.kicad_sch" (id 1) (at 118.745 116.7896 0)
+    (property "Sheetfile" "tamago60_matrix.kicad_sch" (at 118.745 116.7896 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "tamago60"
+        (path "/e5a0f2c6-065d-4d38-9ddc-07098c6eb873" (page "2"))
+      )
     )
   )
 
   (sheet (at 199.39 70.485) (size 57.15 45.72) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 6ac67d0d-1135-4a39-aff8-83b6231a827e)
-    (property "Sheet name" "MCU, USB, Power" (id 0) (at 199.39 69.7734 0)
+    (property "Sheetname" "MCU, USB, Power" (at 199.39 69.7734 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheet file" "tamago60_mcu.kicad_sch" (id 1) (at 199.39 116.7896 0)
+    (property "Sheetfile" "tamago60_mcu.kicad_sch" (at 199.39 116.7896 0)
       (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "tamago60"
+        (path "/e5a0f2c6-065d-4d38-9ddc-07098c6eb873" (page "3"))
+      )
     )
   )
 
   (sheet_instances
     (path "/" (page "1"))
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab" (page "2"))
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e" (page "3"))
-  )
-
-  (symbol_instances
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/7c1d303c-b522-4984-a7c0-fd85e120db0c"
-      (reference "#PWR0101") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/5ba58e6d-14ab-4bd6-97c6-f0a7410475fc"
-      (reference "#PWR0102") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/7c7079ba-e5ae-43f9-abad-a1d1b1d838d1"
-      (reference "#PWR0103") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/a4f52ad5-6870-4bba-a201-18d0368d2e57"
-      (reference "#PWR0104") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/9a56ecb0-9f6c-4903-a6ad-2f37c8c9bf16"
-      (reference "#PWR0105") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/97010a12-c458-4efa-b635-0ec5f2f0e526"
-      (reference "#PWR0106") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/7b501661-15af-4c17-9171-714e97b46b05"
-      (reference "#PWR0107") (unit 1) (value "VBUS") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/630e1e58-bf20-480e-91ec-25a638ba342b"
-      (reference "#PWR0108") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/4c22660e-9e72-43fd-9600-bd0dc10e8dab"
-      (reference "#PWR0118") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/3aa9841d-5738-4896-b95d-240529baa388"
-      (reference "#PWR0119") (unit 1) (value "+3V3") (footprint "")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/edf268a6-9a90-428d-9891-4cd8500b7728"
-      (reference "D101") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/003d455f-c69d-4a49-b3be-1821fda0105a"
-      (reference "D102") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/ee4e11ce-d243-44f2-a6d2-a903539409b0"
-      (reference "D103") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/5f5d5405-7401-4b4c-a292-4682be53c373"
-      (reference "D104") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/852d0fc0-86f8-40fe-a665-c99bbcfe8b53"
-      (reference "D105") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/7682a2ac-b92b-4070-ade5-7bf649821d8e"
-      (reference "D106") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/5245cc59-04aa-4ae0-b848-e889f523bb91"
-      (reference "D107") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/e30496c8-b8e5-456b-a43b-dbaf46d8aad5"
-      (reference "D108") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a4d4cb02-bb12-470c-b4ac-b21b4d7b7bd0"
-      (reference "D109") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c25b132d-14f2-4964-a0b9-08d0ec44c8cb"
-      (reference "D110") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c0a5c347-5dab-4236-9c5f-800ca1be231f"
-      (reference "D111") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a83a1901-07e1-49d7-926d-c14f1b70cb57"
-      (reference "D112") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3b23c4b5-ad66-4905-a6d0-95b06d019787"
-      (reference "D201") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/774e546d-863a-40d0-9909-a12eca811d6f"
-      (reference "D202") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/10091402-3b2c-4072-abfa-8d7e95508be9"
-      (reference "D203") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/0d7308d9-6f68-47e8-b593-11c11d64fd09"
-      (reference "D204") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/bbaef69c-b1fd-42af-aad9-01c42a7f91d1"
-      (reference "D205") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/0e04a8a1-79e6-443f-b952-ee527287b7c6"
-      (reference "D206") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/59f9cd3a-a450-44f9-9b4d-0d91aa213fb0"
-      (reference "D207") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/54bb2088-abed-4481-b49d-124683346b7e"
-      (reference "D208") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f658dfbf-630f-403a-9530-22330593c092"
-      (reference "D209") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/bb1dea81-9fb2-40e4-a5e8-2610c22adacc"
-      (reference "D210") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/80e67848-75a1-4246-a25a-c558cdc2fcd0"
-      (reference "D211") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/5509802d-40a5-482f-8fd0-47dc8a793fd3"
-      (reference "D212") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/541ae351-ad64-46dd-a235-b1432a912f31"
-      (reference "D301") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a4a2b0ec-8cba-41e8-907c-0dbb3f8c762d"
-      (reference "D302") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d2ac1317-0a49-47ba-8552-2729ddc27c97"
-      (reference "D303") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/edd381d4-33db-4829-bea5-38c4c082e870"
-      (reference "D304") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/8dab3be7-bc48-4249-8df2-0809ff2af98c"
-      (reference "D305") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/9ebaecb6-fd53-4bc2-8c9e-c071acfbfb40"
-      (reference "D306") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2f194651-680e-4e35-8a55-d24769b93a31"
-      (reference "D307") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6eaf06b4-bd0b-4e71-bd0e-3e50fc7cb942"
-      (reference "D308") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/bf751d0a-6cee-415d-b0b8-61ef72e3a911"
-      (reference "D309") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/19b292af-44bd-46e9-b368-c0ecc7fb380e"
-      (reference "D310") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/ae88552a-fdb7-471b-b6da-ac1514542150"
-      (reference "D311") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/59ca1f24-239d-4760-b942-4b14a6d07a34"
-      (reference "D312") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/11cd2073-8c13-4250-aa0e-37940587b103"
-      (reference "D401") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/648195cf-bf37-4af9-9cb6-2a870e86f9bb"
-      (reference "D402") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/e5235240-cc7c-47ae-9603-ed3140efad44"
-      (reference "D403") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/4e4690ed-2f35-402b-9b09-49e76a232078"
-      (reference "D404") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/535cd933-021f-418f-bd18-ed9e97170798"
-      (reference "D405") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d978d1ac-ce38-4b7f-919b-55706d88e92c"
-      (reference "D406") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a6303007-430a-4bc2-bbda-f98ba1709292"
-      (reference "D407") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/24026a89-c24c-4fcb-9705-906b12cedcb7"
-      (reference "D408") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/ff5e652b-2e1e-4f2d-856b-eb1bfa0315a0"
-      (reference "D409") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f3d35245-85da-4f77-a482-b74aeb2b8efb"
-      (reference "D410") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c83f173a-17d5-40f2-81b0-0074c302a1cb"
-      (reference "D411") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/750df456-8d23-4703-8c78-32e505a2df57"
-      (reference "D412") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/30fc140b-19ad-46d1-b099-429f837082ca"
-      (reference "D501") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/605f0a72-99d9-48d2-98fe-cb00a47b7a5f"
-      (reference "D502") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c5527bf2-4950-4e01-8c61-3daabcff3324"
-      (reference "D503") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fe3b46c5-913f-459f-9406-21a8823b7862"
-      (reference "D504") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/b7a1c289-6458-4640-819e-c407701c0968"
-      (reference "D505") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/49d3cbc8-91e9-4768-a4d1-86824476f090"
-      (reference "D508") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d6a89fdd-ebbd-45ed-b21b-4daab832af40"
-      (reference "D509") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/7db4da0a-9a30-41ff-944f-3c2b042e8120"
-      (reference "D510") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/90376623-0119-4ee1-9c89-289d09663a1d"
-      (reference "D511") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/396d7dd7-2ba0-4f01-823e-305b0f5ece30"
-      (reference "D512") (unit 1) (value "1N1418") (footprint "Diode_SMD:D_SOD-123")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/44605b8b-105d-4a36-83bc-231ccb4187e5"
-      (reference "J1") (unit 1) (value "4105") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/86e5e88e-c7a9-4c88-9b05-e62ad631f9a3"
-      (reference "J2") (unit 1) (value "Cirque FFC") (footprint "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal")
-    )
-    (path "/7fe3ef1e-d06f-465b-9bc5-df41758dcb77"
-      (reference "MH1") (unit 1) (value "MountingHole") (footprint "tamago60:oval_mounting_hole")
-    )
-    (path "/23252bc7-3139-4531-a002-880fdd096cce"
-      (reference "MH2") (unit 1) (value "MountingHole") (footprint "tamago60:circle_mounting_hole")
-    )
-    (path "/4d11e57e-7edc-478e-9bdf-b2f516a6e9f0"
-      (reference "MH3") (unit 1) (value "MountingHole") (footprint "tamago60:circle_mounting_hole_npth")
-    )
-    (path "/abb8ff8f-e26f-457f-a719-d6f12fb9ddd6"
-      (reference "MH4") (unit 1) (value "MountingHole") (footprint "tamago60:circle_mounting_hole")
-    )
-    (path "/3bc3fa5e-4835-4528-a02f-63abed6f0699"
-      (reference "MH5") (unit 1) (value "MountingHole") (footprint "tamago60:circle_mounting_hole")
-    )
-    (path "/4431d4cb-95c9-421e-a920-96d8d28e31a3"
-      (reference "MH6") (unit 1) (value "MountingHole") (footprint "tamago60:oval_mounting_hole")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/f83f22f4-173f-4d0f-a130-e7dab3ea22aa"
-      (reference "R1") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_1206_3216Metric")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/9b32a0f2-3bf2-4c69-9e92-cb7e8e549656"
-      (reference "R2") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_1206_3216Metric")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/277ca883-7ceb-47c5-930c-3fb9d3765a36"
-      (reference "R3") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_1206_3216Metric")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/80268294-765a-4369-be43-ce126800b9a7"
-      (reference "R4") (unit 1) (value "5.1k") (footprint "Resistor_SMD:R_1206_3216Metric")
-    )
-    (path "/6ac67d0d-1135-4a39-aff8-83b6231a827e/1c5ac656-5c08-4feb-9213-db76c56f00ce"
-      (reference "U1") (unit 1) (value "kb2040") (footprint "kb2040:kb2040")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/55ad0278-9a54-4ff2-b0d2-0ef37d22dd47"
-      (reference "XSW101") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/b1b564de-9a84-48aa-8e12-dd15d147a452"
-      (reference "XSW102") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2b1adb05-8267-47b8-b2dd-5d4063506022"
-      (reference "XSW103") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/58a9787c-e2c1-47ad-8759-7e5136e14d30"
-      (reference "XSW104") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6e87ae15-6a62-446e-b016-323f20594190"
-      (reference "XSW105") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2503cff0-d28a-44b0-bde7-3a5aadf7bf7e"
-      (reference "XSW106") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/269aa2a1-c647-433e-87b2-9cfbad6e51a4"
-      (reference "XSW107") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d2216ae7-6acd-4cfc-a7cd-0b1e93f4209f"
-      (reference "XSW108") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a84a7045-8121-4e14-8aff-caeb92e67dc3"
-      (reference "XSW109") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/e43ed8bc-64a8-4a84-a3f7-8fd16e8b5268"
-      (reference "XSW110") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2c9f0244-0cca-4374-b239-6c792d45d0cd"
-      (reference "XSW111") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f8caa280-d279-42f5-946c-d75d32211f4f"
-      (reference "XSW112") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c33a0ba0-38e9-4547-a799-a4a3b36fbda6"
-      (reference "XSW201") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/df700100-475d-4454-8828-ae73720b8dd6"
-      (reference "XSW202") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/7b9cdd74-d475-4566-be25-ae90323b9ab3"
-      (reference "XSW203") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f7c4e165-212d-4a36-a5bd-4f5829347d68"
-      (reference "XSW204") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fb50e7e8-93df-4a3c-a376-386693de89d8"
-      (reference "XSW205") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/14a738e7-a052-4148-933d-20d127350562"
-      (reference "XSW206") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/ea5c4949-9186-43ce-b550-8ef2cc0ad9c6"
-      (reference "XSW207") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6c52d3f6-c3f9-41b8-a379-78ce3dc61e03"
-      (reference "XSW208") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/9197fc22-4415-4df9-9ace-82eb4d963b35"
-      (reference "XSW209") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3d52657d-0905-4e25-be19-a19eee15e44b"
-      (reference "XSW210") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/f50d8add-2cff-43c3-bf5d-9f7f657fe101"
-      (reference "XSW211") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d7053da7-e4d6-4fe8-bc7f-414eded258ec"
-      (reference "XSW212") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/9ee6a795-1b36-41aa-8881-37ea19d73c28"
-      (reference "XSW301") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a495a822-be1b-4365-9317-c89c8eb7da28"
-      (reference "XSW302") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/64763560-a742-4eef-8654-738eefb7d740"
-      (reference "XSW303") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/dca0186e-f935-496a-b6e5-a30d2a88fb32"
-      (reference "XSW304") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/084420d1-30bc-45eb-846d-4f1cf178b5d8"
-      (reference "XSW305") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/dcad4ade-b4a6-42f2-8cc6-0fed8a9535e7"
-      (reference "XSW306") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fe002e22-26e3-45d2-bfa4-8cda68821b80"
-      (reference "XSW307") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/5a3440b6-3d56-43c8-a5fa-d422aac1068a"
-      (reference "XSW308") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/110f97d1-964f-4125-9f50-8be2ce54351b"
-      (reference "XSW309") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/7b4eb450-3ca9-445d-9502-f42439cc480a"
-      (reference "XSW310") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a3a6a169-35d1-4411-b378-43480bd0faae"
-      (reference "XSW311") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/4e27ebef-af8b-4fa0-98d7-dd57bbb2b72a"
-      (reference "XSW312") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/bc4f019f-9540-4158-9fda-12a89643b400"
-      (reference "XSW401") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3ccbe198-3202-4418-a13a-f8bcdae854bf"
-      (reference "XSW402") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/c4075483-2c9c-4225-b1dc-31ee1821ae70"
-      (reference "XSW403") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/4926f67f-d046-47fd-945a-d24899154a1d"
-      (reference "XSW404") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6d1b93e5-e7f8-4e50-9232-72df43332030"
-      (reference "XSW405") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/3d027fe6-cba5-43e8-b41e-cd26d3d24992"
-      (reference "XSW406") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/30ba7303-16e2-40d5-9266-659ab4bde3fe"
-      (reference "XSW407") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/cf621a54-a0b1-4d81-bcef-0f0427f793ff"
-      (reference "XSW408") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/71f02379-fe28-4963-96a9-0ea3965d5973"
-      (reference "XSW409") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/32d217e9-6793-4d6a-a4d3-969855f5dce9"
-      (reference "XSW410") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a57a5de9-676f-4425-8c47-456a4d8c760f"
-      (reference "XSW411") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/d504eb64-6b3d-4d69-b761-1cc50de1f249"
-      (reference "XSW412") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/46f8e824-836f-4bca-b9a0-65df1b537f61"
-      (reference "XSW501") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/540914ae-9481-40d5-9aa2-8a4e1f98d085"
-      (reference "XSW502") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/e00e7675-e9d1-4bc8-be89-d182e07c41a0"
-      (reference "XSW503") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/760a7f51-98fd-4706-bf5b-46b941b0bf0f"
-      (reference "XSW504") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/a87a8356-75fc-41f2-8430-10f8ab7ccadc"
-      (reference "XSW505") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/73fc7384-de90-40e3-8607-1c41c6b1db6e"
-      (reference "XSW508") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/2def6eb6-3356-4974-8236-f65860995e01"
-      (reference "XSW509") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/fb8c6787-ca8c-42ef-a99f-5d8bdf4dd58b"
-      (reference "XSW510") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/6b6c143b-02d6-4374-9adb-36b75e016694"
-      (reference "XSW511") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
-    (path "/50c4e2f2-63e0-4314-96f9-1fc784fa45ab/92352715-9262-4bd8-9587-9b632bcdec14"
-      (reference "XSW512") (unit 1) (value "Kailh choc socket") (footprint "tamago60:Kailh_socket_PG1350")
-    )
   )
 )
